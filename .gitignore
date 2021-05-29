@@ -1,6 +1,8 @@
 *.tif
 *.png
 *.jpg
+*.geojson
+*.xml
 *.csv
 *.txt
 *.zip
