@@ -9,6 +9,7 @@ from .deepsat import DeepSat
 from .landcover import LandCover
 from .cowc import COWC
 from .l7irish import L7Irish
+from .landcovernet import LandCoverNet
 
 __all__ = ['DroneDeploy', 'AerialCactus', 'RESISC45',
-           'UCMercedLand', 'EuroSat', 'L8SPARCS', 'DeepSat', 'LandCover', 'COWC','L7Irish']
+           'UCMercedLand', 'EuroSat', 'L8SPARCS', 'DeepSat', 'LandCover', 'COWC','L7Irish', 'LandCoverNet']
