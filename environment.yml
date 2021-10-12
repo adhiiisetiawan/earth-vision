@@ -22,6 +22,8 @@ dependencies:
       - rasterio>=1.2.6
       - affine>=2.3.0
       - Shapely>=1.7.1
+      - h5py>=3.3.0
+      - wget>=3.2
       - beautifulsoup4>=4.9.3
       - scikit-image>=0.18.2
       - spectral>=0.22.2
